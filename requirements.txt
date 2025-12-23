@@ -1,0 +1,4 @@
+customtkinter
+windnd
+packaging
+pillow

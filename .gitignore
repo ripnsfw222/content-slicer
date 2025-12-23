@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+.venv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# App Specific (Output files)
+*_Part*.mp4
+*_Highlights_*.mp4
+*_TikTok.mp4
+*_sem_audio.mp4
+temp_*.mp4
+tk_temp_*.mp4
+concat_list.txt
