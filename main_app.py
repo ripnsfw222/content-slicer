@@ -10,7 +10,7 @@ from video_processor import VideoProcessor
 ctk.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
 ctk.set_default_color_theme("dark-blue")  # Themes: "blue" (standard), "green", "dark-blue"
 
-class SmartVidPro:
+class ContentSlicerApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Content-Slicer 🚀")
@@ -247,5 +247,5 @@ class SmartVidPro:
 
 if __name__ == "__main__":
     root = ctk.CTk()
-    app = SmartVidPro(root)
+    app = ContentSlicerApp(root)
     root.mainloop()
