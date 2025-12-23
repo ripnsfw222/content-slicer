@@ -27,8 +27,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/smartvid-pro.git
-   cd smartvid-pro
+   git clone https://github.com/ripnsfw222/content-slicer.git
+   cd content-slicer
    ```
 
 2. Create a virtual environment (optional but recommended):
